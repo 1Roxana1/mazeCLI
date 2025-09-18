@@ -9,7 +9,7 @@ public class Maze
     private const char PATH = ' ';
     private const char PLAYER = '*';
     private const char EXIT = 'A';
-
+    //швыгщав
     private char[,] maze;
     private int playerX, playerY;
     private int exitX, exitY;
